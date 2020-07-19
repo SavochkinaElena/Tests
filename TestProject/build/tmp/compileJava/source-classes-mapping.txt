@@ -1,2 +1,2 @@
-MyClass.java
- MyClass
+ru/testpr/pr/tests/MyClass.java
+ ru.testpr.pr.tests.MyClass
