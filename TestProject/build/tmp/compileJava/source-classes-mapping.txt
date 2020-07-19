@@ -1,2 +1,6 @@
 ru/testpr/pr/tests/MyClass.java
  ru.testpr.pr.tests.MyClass
+ru/testpr/pr/tests/Rectangle.java
+ ru.testpr.pr.tests.Rectangle
+ru/testpr/pr/tests/Square.java
+ ru.testpr.pr.tests.Square
