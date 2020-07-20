@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.testprpr.tests.Test1" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-20T21:03:39" hostname="ELENA-PC" time="0.011">
+  <properties/>
+  <testcase name="TestArea" classname="ru.testprpr.tests.Test1" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

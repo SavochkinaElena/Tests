@@ -1,0 +1,2 @@
+ru/testprpr/tests/Test1.java
+ ru.testprpr.tests.Test1
