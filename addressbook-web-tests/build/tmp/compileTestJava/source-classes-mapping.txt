@@ -1,0 +1,2 @@
+ru/qa/test/addressbook/Test1Test.java
+ ru.qa.test.addressbook.Test1Test
